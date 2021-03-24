@@ -61,7 +61,7 @@ class BeatsPerMinute extends Component {
     const { bpm } = this.state;
     return (
       <Container>
-        <Label>{`BPM - ${bpm}`}</Label>
+        <Label>{`Beats Per Minute - ${bpm}`}</Label>
         <RangeInput ref={this.input} type="range" min="80" max="200" />
       </Container>
     );
