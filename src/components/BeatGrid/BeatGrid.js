@@ -7,7 +7,7 @@ const Container = styled.div`
   width: calc(100vw - 2px);
   margin: 0;
   display: flex;
-  background-color: #232323;
+  background-color: purple;
   border: 0.5px solid ${props => props.background};
 `
 

@@ -15,7 +15,7 @@ const LabelContainer = styled.div`
   align-items: center;
   padding: 8px;
   margin: 0.5px;
-  background-color: #C8C8C8CC;
+  background-color: white;
 `
 
 const Label = styled.span`

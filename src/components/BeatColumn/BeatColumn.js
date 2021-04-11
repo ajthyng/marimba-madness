@@ -20,7 +20,7 @@ const Overlay = styled.div`
   left: 0;
   width: 100%;
   height: 100%;
-  background-color: #00FFFF;
+  background-color: purple;
   pointer-events: none;
   opacity: ${props => (props.playing ? 0.3 : 0)};
 `

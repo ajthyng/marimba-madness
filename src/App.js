@@ -7,7 +7,7 @@ import { availableNotes } from './constants/scale'
 import BeatControls from './components/BeatControls/BeatControls'
 
 const Container = styled.div`
-  background-color: #232323;
+  background-color: #303030;
   display: flex;
   flex-direction: column;
   align-items: center;
